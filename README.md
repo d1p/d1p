@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey 👋, I am Nihan
+I am finishing my BSc in software engineering at DIU, Bangladesh and working as a software engineer. 
 
-<!--
-**d1p/d1p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Python / Django / ReactJS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Travel API's @Gozayaan 
+- 🌱 I’m currently learning FastAPI 
+- 💬 Ask me about Python, Django  
+- 📫 How to reach me:  Instagram @r9ckless 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/d1p)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/d1p)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/r9ckless/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/d9p)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=d1p&show_icons=true)  
+![Nihans Github Stats](https://github-readme-stats.vercel.app/api?username=d1p&show_icons=true&theme=radical)
+![Profile views](https://gpvc.arturio.dev/d1p)  
