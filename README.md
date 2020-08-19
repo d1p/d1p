@@ -14,5 +14,6 @@ Skills: Python / Django / ReactJS
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=d1p&show_icons=true)  
-![Nihans Github Stats](https://github-readme-stats.vercel.app/api?username=d1p&show_icons=true&theme=radical)
+
+
 ![Profile views](https://gpvc.arturio.dev/d1p)  
