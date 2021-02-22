@@ -1,5 +1,5 @@
 ### Hey 👋, I am Nihan
-I am finishing my BSc in software engineering at DIU, Bangladesh and working as a software engineer. 
+I have finished BSc in software engineering at DIU, Bangladesh and working as a software engineer. 
 
 Skills: Python / Django / ReactJS
 
