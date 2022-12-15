@@ -1,5 +1,6 @@
-### Hey 👋, I am Nihan
+### Hey 👋, I am Dip
 I have finished BSc in software engineering at DIU, Bangladesh and working as a software engineer. 
+Currently at Vienna, Austria.
 
 Skills: Python / Django / ReactJS
 
