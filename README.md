@@ -1,12 +1,12 @@
 ### Hey 👋, I am Dip
-I have finished BSc in software engineering at DIU, Bangladesh and working as a software engineer. 
-Currently liviing in Vienna, Austria.
+I have finished my BSc in software engineering at DIU, Bangladesh, and working as a software engineer. 
+Currently living in Vienna, Austria.
 
 Skills: Python / Django / ReactJS
 
-- 🔭 I’m currently working @Adidas Runtastic 
+- 🔭 I’m currently working @Dynatrace
 - 🌱 I’m currently learning API Optimizations.
-- 💬 Ask me about Python, Ruby  
+- 💬 Ask me about Python, PostgreSQL  
 - 📫 How to reach me:  Instagram @debashisdip 
 
 
